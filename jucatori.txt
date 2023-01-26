@@ -1,0 +1,7 @@
+﻿david,sabie,60,scut rotund,200
+andrei,arc cu sageti,120,scut mic, 50
+vali,topor,35,scut albastru,170
+killer99,bagheta magica,245,scut magic,400
+slayer12,sabie,120,scut greu,300
+cineva34,arc cu sageti,600,scut negru,900
+thebest00,doua sabii,450,scut pentagon,233

@@ -1,0 +1,8 @@
+﻿Goblin,400,200
+Azrael,190,60
+Regele Intunecat,113,80
+Calau Magic,90,18
+Spiridus,80,40
+Driada Rosie,50,29
+Copac Blestemat,13,99
+Orc,70,50
